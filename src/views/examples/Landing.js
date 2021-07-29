@@ -439,7 +439,7 @@ class Landing extends React.Component {
                           </div>
                         </div>
                         <div className="pl-4">
-                          <h5 className="title text-success">
+                          <h5 className=" text-success">
                             Awesome Support
                           </h5>
                           <p>
@@ -467,7 +467,7 @@ class Landing extends React.Component {
                           </div>
                         </div>
                         <div className="pl-4">
-                          <h5 className="title text-warning">
+                          <h5 className=" text-warning">
                             Modular Components
                           </h5>
                           <p>
@@ -528,7 +528,7 @@ class Landing extends React.Component {
                       style={{ width: "200px" }}
                     />
                     <div className="pt-4 text-center">
-                      <h5 className="title">
+                      <h5 className="">
                         <span className="d-block mb-1">Ryan Tompson</span>
                         <small className="h6 text-muted">Web Developer</small>
                       </h5>
@@ -570,7 +570,7 @@ class Landing extends React.Component {
                       style={{ width: "200px" }}
                     />
                     <div className="pt-4 text-center">
-                      <h5 className="title">
+                      <h5 className="">
                         <span className="d-block mb-1">Romina Hadid</span>
                         <small className="h6 text-muted">
                           Marketing Strategist
@@ -614,7 +614,7 @@ class Landing extends React.Component {
                       style={{ width: "200px" }}
                     />
                     <div className="pt-4 text-center">
-                      <h5 className="title">
+                      <h5 className="">
                         <span className="d-block mb-1">Alexander Smith</span>
                         <small className="h6 text-muted">UI/UX Designer</small>
                       </h5>
@@ -656,7 +656,7 @@ class Landing extends React.Component {
                       style={{ width: "200px" }}
                     />
                     <div className="pt-4 text-center">
-                      <h5 className="title">
+                      <h5 className="">
                         <span className="d-block mb-1">John Doe</span>
                         <small className="h6 text-muted">Founder and CEO</small>
                       </h5>
@@ -743,7 +743,7 @@ class Landing extends React.Component {
                   </div>
                   <h5 className="text-white mt-3">Building tools</h5>
                   <p className="text-white mt-3">
-                    Some quick example text to build on the card title and make
+                    Some quick example text to build on the card  and make
                     up the bulk of the card's content.
                   </p>
                 </Col>
@@ -753,7 +753,7 @@ class Landing extends React.Component {
                   </div>
                   <h5 className="text-white mt-3">Grow your market</h5>
                   <p className="text-white mt-3">
-                    Some quick example text to build on the card title and make
+                    Some quick example text to build on the card  and make
                     up the bulk of the card's content.
                   </p>
                 </Col>
@@ -763,7 +763,7 @@ class Landing extends React.Component {
                   </div>
                   <h5 className="text-white mt-3">Launch time</h5>
                   <p className="text-white mt-3">
-                    Some quick example text to build on the card title and make
+                    Some quick example text to build on the card  and make
                     up the bulk of the card's content.
                   </p>
                 </Col>
